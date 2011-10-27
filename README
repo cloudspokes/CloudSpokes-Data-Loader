@@ -1,0 +1,5 @@
+Java command line data loader for extracting records from SQL Server and upserting into Salesforce using the Bulk API
+
+For more info on the Bulk API see: http://wiki.developerforce.com/index.php/Loading_Large_Data_Sets_with_the_Force.com_Bulk_API
+
+http://www.cloudspokes.com
